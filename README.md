@@ -1,7 +1,7 @@
 # Parking Space Classification: A Comparative Study of Intelligent Models
 The Parking Space Classification project is a modern and intelligent solution to the common challenge of identifying available parking spaces in parking lots. By employing machine learning, the system classifies parking spaces as either occupied or free, contributing to a more efficient and user-friendly parking experience.
 
-![Снимок экрана от 2023-08-24 05-51-35](https://github.com/D1H1/Parking-Space-Classification-A-Comparative-Study-of-Intelligent-Models/assets/94292673/4e1f3375-8f42-4baa-8752-ae17078eb19a)
+![Снимок экрана от 2023-08-24 05-51-58](https://github.com/D1H1/Parking-Space-Classification-A-Comparative-Study-of-Intelligent-Models/assets/94292673/473ff00b-97ec-4277-9a55-b1c3cc7b0e44)
 
 [Original Kaggle Notebook](https://www.kaggle.com/code/davidhavrilenko/parking-space-classification-a-comparative-study/notebook)
 
